@@ -1,0 +1,36 @@
+.venkata{
+    height: 200px;
+    /*background-color: silver;*/
+}
+.motorcycles{
+    height: 200px;
+    background-color: turquoise;
+}
+.motorcycles:hover{
+    background-color: gold;
+}
+.beer{
+    height: 200px;
+    background-color: turquoise;
+}
+.beer:hover{
+    background-color: gold;
+}
+h1{
+    color: lightseagreen;
+}
+h3{
+    color: seagreen;
+}
+hr{
+    height: 0px;
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+}
+body{
+    background-color: #EAF6F6;
+}
